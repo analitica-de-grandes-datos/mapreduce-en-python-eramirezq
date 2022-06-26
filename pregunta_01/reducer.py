@@ -23,4 +23,4 @@ if __name__ == "__main__":
                 curkey=key
                 total=val
                 
-    sys.stdout.write('{}\t{}\n'.format(curkey,total))
+    sys.stdout.write('{}\t\n'.format(curkey,total))
